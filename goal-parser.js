@@ -1,6 +1,11 @@
-// My Final Solution
+// My Solution with strings
 var interpret = function(command) {
     return command.replaceAll("()","o").replaceAll("(al)","al");
+};
+
+// My Solution with regex
+var interpret = function(command) {
+    return command.replaceAll(/\(\)/g,"o").replaceAll(/\(al\)/g,"al");
 };
 
 /*
