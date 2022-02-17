@@ -1,0 +1,6 @@
+// My Solution (one line)
+// 96 ms	48.4 MB
+
+var smallerNumbersThanCurrent = function(nums) {
+    return nums.map(num => nums.filter(num2 => num > num2).length)
+};
