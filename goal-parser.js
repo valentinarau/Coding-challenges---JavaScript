@@ -15,7 +15,7 @@ var interpret = function(command) {
   
   I also tried:
   var interpret = function(command) {
-    return command.replaceAll("()","o").replaceAll("(al)","al");
+    return command.replace("()","o").replace("(al)","al");
 };
   but it does not replace all the occations where it has to.
 
