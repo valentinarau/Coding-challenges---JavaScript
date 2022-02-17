@@ -1,9 +1,11 @@
 // My Solution with strings
+// 109 ms	42.1 MB
 var interpret = function(command) {
     return command.replaceAll("()","o").replaceAll("(al)","al");
 };
 
 // My Solution with regex
+// 73 ms	41.9 MB
 var interpret = function(command) {
     return command.replaceAll(/\(\)/g,"o").replaceAll(/\(al\)/g,"al");
 };
