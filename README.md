@@ -4,3 +4,4 @@ This is a repository where I solve coding challenges in JavaScript. I will leave
 * [LeetCode](https://leetcode.com/)
 1. Goal Parser Interpretation
 2. Destination City
+3. How Many Numbers are Smaller than the Current
