@@ -7,3 +7,4 @@ This is a repository where I solve coding challenges in JavaScript. I will leave
 3. How Many Numbers are Smaller than the Current
 4. Binary Search
 5. Longest Palindrome
+6. Maximum Number of Coins You can Get
