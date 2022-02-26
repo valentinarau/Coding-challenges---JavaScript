@@ -1,0 +1,22 @@
+// Not my Solution
+
+var delNodes = function(root, to_delete) {
+  let res = [];
+  let set = new Set();
+  for(let i of to_delete) set.add(i);
+  let dfs = (node) => {
+    if(!node) return node;
+    node.left = dfs(node.left);
+    node.right = dfs(node.right);
+    if(set.has(node.val)) {
+      if(node.left) res.push(node.left);
+      if(node.right) res.push(node.right);
+      return null;
+    }
+    return node;
+  }
+  dfs(root);
+  if(!set.has(root.val)) res.push(root);
+  return res;
+};
+   
