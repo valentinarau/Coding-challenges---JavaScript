@@ -8,3 +8,7 @@ This is a repository where I solve coding challenges in JavaScript. I will leave
 4. Binary Search
 5. Longest Palindrome
 6. Maximum Number of Coins You can Get
+
+* [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting)
+1. Sum All Numbers in a Range
+2. Diff Two Arrays
