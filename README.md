@@ -12,3 +12,4 @@ This is a repository where I solve coding challenges in JavaScript. I will leave
 * [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting)
 1. Sum All Numbers in a Range
 2. Diff Two Arrays
+3. Seek and Destroy
