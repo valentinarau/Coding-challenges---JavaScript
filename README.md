@@ -18,3 +18,7 @@ This is a repository where I solve coding challenges in JavaScript. I will leave
 2. Diff Two Arrays
 3. Seek and Destroy
 4. Wherefore Art Thou
+5. Spinal Tap Case
+6. Pig Latin
+7. Search and Replace
+8. DNA Pairing
