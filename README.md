@@ -1,7 +1,9 @@
 # challenges in JavaScript
 This is a repository where I solve coding challenges in JavaScript. I will leave the resources where I find them below.
 
-* [LeetCode](https://leetcode.com/)
+ `Medium-Intermediate`
+* [LeetCode](https://leetcode.com/) 
+
 1. Goal Parser Interpretation
 2. Destination City
 3. How Many Numbers are Smaller than the Current
@@ -9,7 +11,9 @@ This is a repository where I solve coding challenges in JavaScript. I will leave
 5. Longest Palindrome
 6. Maximum Number of Coins You can Get
 
-* [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting)
+
+ `Intermediate`
+* [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting) 
 1. Sum All Numbers in a Range
 2. Diff Two Arrays
 3. Seek and Destroy
