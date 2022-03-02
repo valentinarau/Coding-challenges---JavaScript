@@ -13,3 +13,4 @@ This is a repository where I solve coding challenges in JavaScript. I will leave
 1. Sum All Numbers in a Range
 2. Diff Two Arrays
 3. Seek and Destroy
+4. Wherefore Art Thou
