@@ -10,7 +10,6 @@ for(let i = lowest;i<=highest;i++) sumArr.push(i)
   return sumArr.reduce((a,b)=> a+b);
 }
 
-sumAll([1, 4]);
 
 // One FCC Solution
 
