@@ -9,3 +9,12 @@ function destroyer(arr) {
   newArr = newArr.filter(a=>a!=arguments[i])
   return newArr;
 }
+
+// Other FCC Fancy Solution
+
+function destroyer(arr) {
+  var valsToRemove = Array.from(arguments).slice(1);
+  return arr.filter(function(val) {
+    return !valsToRemove.includes(val);
+  });
+}
