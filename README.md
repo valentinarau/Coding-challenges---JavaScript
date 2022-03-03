@@ -23,3 +23,4 @@ This is a repository where I solve coding challenges in JavaScript. I will leave
 7. Search and Replace
 8. DNA Pairing
 9. Missing Letters
+10. Sorted Union
