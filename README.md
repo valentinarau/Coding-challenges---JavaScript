@@ -22,3 +22,4 @@ This is a repository where I solve coding challenges in JavaScript. I will leave
 6. Pig Latin
 7. Search and Replace
 8. DNA Pairing
+9. Missing Letters
