@@ -27,3 +27,4 @@ This is a repository where I solve coding challenges in JavaScript. I will leave
 11. HTML Entities
 12. Sum Odd Fibonacci Numbers
 13. Sum Primes
+14. Smallest Common Multiple
