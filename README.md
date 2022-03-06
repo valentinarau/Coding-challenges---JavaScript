@@ -25,3 +25,4 @@ This is a repository where I solve coding challenges in JavaScript. I will leave
 9. Missing Letters
 10. Sorted Union
 11. HTML Entities
+12. Sum Odd Fibonacci Numbers
