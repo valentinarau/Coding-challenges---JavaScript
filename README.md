@@ -33,3 +33,4 @@ This is a repository where I solve coding challenges in JavaScript. I will leave
 17. Binary Agents
 18. Everything Be True
 19. Arguments Optional
+20. Make a Person
