@@ -35,3 +35,8 @@ This is a repository where I solve coding challenges in JavaScript. I will leave
 19. Arguments Optional
 20. Make a Person
 21. Map The Debris
+
+
+`Difficult`
+* [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting) 
+1. Palindrome Checker
