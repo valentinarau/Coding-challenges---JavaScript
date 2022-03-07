@@ -40,3 +40,4 @@ This is a repository where I solve coding challenges in JavaScript. I will leave
 `Hard`
 * [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting) 
 1. Palindrome Checker
+2. Caesars Cipher
