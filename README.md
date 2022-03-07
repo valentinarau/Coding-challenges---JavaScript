@@ -37,6 +37,6 @@ This is a repository where I solve coding challenges in JavaScript. I will leave
 21. Map The Debris
 
 
-`Difficult`
+`Hard`
 * [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting) 
 1. Palindrome Checker
