@@ -41,3 +41,5 @@ This is a repository where I solve coding challenges in JavaScript. I will leave
 * [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting) 
 1. Palindrome Checker
 2. Caesars Cipher
+3. Telephone Number Checker
+4. Cash Register
